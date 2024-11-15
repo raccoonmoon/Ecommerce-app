@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "624187674331",
+    "project_id": "ecommerce-app-20fab",
+    "storage_bucket": "ecommerce-app-20fab.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624187674331:android:3892e352dbba326b1dc6fe",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce_app_hackathon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkAD1Zo6psBY7eQaS1CxGXj1wexTy92iQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
