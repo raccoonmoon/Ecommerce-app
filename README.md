@@ -1,16 +1,13 @@
 # ecommerce_app_hackathon
 
-A new Flutter project.
+A modern, fully functional e-commerce mobile application built with Flutter. The app offers a seamless shopping experience with features like product browsing, search, cart management, order tracking, and secure payments.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Features
+1-User Authentication: Sign up, login, and password recovery.
+2-Product Listings: View products with images, descriptions, and prices.
+3-Search & Filters: Search for products and apply filters by category, price, or brand.
+4-Shopping Cart: Add, remove, and update items in the cart.
+5-Order Management: Place orders and view order history.
+6-Wishlist: Save products for later.
+7-Secure Payments: Integration with payment gateways like Stripe or PayPal.
+8-Responsive Design: Optimized for both Android and iOS devices.
